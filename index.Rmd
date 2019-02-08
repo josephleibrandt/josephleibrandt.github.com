@@ -8,6 +8,7 @@ output:
     toc: true 
     toc_depth: 3
     toc_float: true
+    
 ---
 
 ```{r setup, include=FALSE}
@@ -34,6 +35,8 @@ I am a Certified Data Science Professional with extensive experience in data rep
 
 * [LinkedIn](https://www.linkedin.com/in/josephleibrandt/)
 * [GitHub](https://github.com/josephleibrandt)
+
+![](img/costco optical.jpg){width=100px}
 
 ## Contact
 
