@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R | Joe Leibrandt</title>
+    <link>/categories/r/</link>
+      <atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
+    <description>R</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 09 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/joe%20linkedin%203.jpg</url>
+      <title>R</title>
+      <link>/categories/r/</link>
+    </image>
+    
+    <item>
+      <title>Welcome!</title>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <description>
+
+
+&lt;div id=&#34;welcome&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Welcome&lt;/h1&gt;
+&lt;p&gt;I am a Certified Data Science Professional with extensive experience in
+data reporting and visualization, technical writing, business market
+research, and information technology consulting. I can assist in the
+gathering, organizing and analyzing of corporate data for dissemination
+to internal and external stakeholders. My personal abilities include
+attention to detail, active listening, and excellent writing skills.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
